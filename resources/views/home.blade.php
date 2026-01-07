@@ -4,7 +4,7 @@
 
 <!-- HEADER -->
 <div class="mb-4">
-    <h4 class="fw-bold">Dashboard Harga Pangan</h4>
+    <h4 class="fw-bold">Dashboard Harga Makanan Tradisonal</h4>
     <p class="text-muted">Monitoring harga komoditas pangan harian</p>
 </div>
 
